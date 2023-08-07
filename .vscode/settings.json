@@ -1,0 +1,11 @@
+{
+	"editor.codeActionsOnSave": {
+		"source.addMissingImports": true,
+		"source.fixAll.eslint": true
+	},
+	"[html][javascript][json][jsonc][markdown][css][scss][svg][typescript][typescriptreact][svelte]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"typescript.preferences.importModuleSpecifier": "project-relative",
+	"svelte.enable-ts-plugin": true
+}

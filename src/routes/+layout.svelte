@@ -215,7 +215,7 @@
 		box-shadow: 0 0 0 2px var(--sl-color-success-500);
 	}
 
-	.user-info {
+	.header :global(.user-info) {
 		--popover-label-line-height: var(--sl-line-height-denser);
 	}
 </style>
